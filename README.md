@@ -1,5 +1,7 @@
-# LJ's Play2Learn Python Games Project - Math Facts Practice & Anagram Hunt Games
+# LJ's Play2Learn Python Games
 In this project, I'm going to create Python versions of the two Play2Learn games that can be played from the console.
+- Math Facts Practice Game
+- Anagram Hunt Game
 
 Feel free to play my games!
 
