@@ -6,7 +6,7 @@ In this project, I'm going to create Python versions of the two Play2Learn games
 Feel free to play my games!
 
 
-## How it works for both games
+## How It Works
 
 - Run "math_facts.py" in the console and you should be prompted to enter an operation and start playing!!
 
