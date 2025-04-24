@@ -1,4 +1,5 @@
 """Anagram Hunt Data Module"""
+# Dictionary mapping word lengths to valid anagram sets
 anagrams = {
     5: [
         ["abets", "baste", "betas", "beast", "beats"],
